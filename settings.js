@@ -12,24 +12,24 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "YT: igwe" //ur yt chanel name
+global.socialm = "GitHub: papaigwe" //ur github or insta name
+global.location = "Libreville, Gabon" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V15' //ur bot name
-global.ownernumber = ['916909137213'] //ur owner number, dont add more than one
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
-global.websitex = "https://youtu.be/tLq8_qOOGFI"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
+global.botname = 'IGWE-MD V6' //ur bot name
+global.ownernumber = ['24160338758'] //ur owner number, dont add more than one
+global.ownername = '🦄드림 가이 PAPA IGWE' //ur owner name
+global.websitex = "https://youtu.be/FftdSfhTHBj"
+global.wagc = "https://whatsapp.com/channel/0029Vak1chV4Y9lkl89DuD3j"
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD15' //script link
+global.wm = "IGWE TECH Inc."
+global.botscript = 'https://github.com/papaigwe/IGWE-MD-V6' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "🦄PAPA IGWE\n\n+24160338758"
+global.creator = "24260338758@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.premium = ["24160338758"] // Premium User
 
 //channel id
 global.xchannel = {
