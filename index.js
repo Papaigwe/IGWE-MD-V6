@@ -60,7 +60,7 @@ async function startXeonBot() {
 			return msg?.message
 		}
 		return {
-			conversation: 'Cheems Bot Here!'
+			conversation: 'Igwe Bot Here!'
 		}
 	}
 	
