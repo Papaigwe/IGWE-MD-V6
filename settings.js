@@ -27,7 +27,7 @@ global.wm = "IGWE TECH Inc."
 global.botscript = 'https://github.com/papaigwe/IGWE-MD-V6' //script link
 global.packname = "Sticker By"
 global.author = "🦄PAPA IGWE\n\n+24160338758"
-global.creator = "24260338758@s.whatsapp.net"
+global.creator = "24160338758@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["24160338758"] // Premium User
 
